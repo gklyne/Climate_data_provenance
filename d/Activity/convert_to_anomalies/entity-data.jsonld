@@ -1,0 +1,22 @@
+{
+  "rdfs:label": "Convert to anomalies from climatic normal ",
+  "rdfs:comment": "Convert station data to a form expressed as percentage variations from the climatic normal",
+  "prov:used": "merged_station_precip",
+  "prov:wasAssociatedWith": "cru_uea",
+  "annal:type_id": "Activity",
+  "prov:endedAtTime": "",
+  "@type": [
+    "prov:Activity",
+    "annal:EntityData"
+  ],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Activity/convert_to_anomalies/",
+  "prov:startedAtTime": "",
+  "annal:id": "convert_to_anomalies",
+  "@id": "./",
+  "prov:used_r": [
+    {
+      "prov:used": "merged_station_precip"
+    }
+  ],
+  "annal:type": "annal:EntityData"
+}

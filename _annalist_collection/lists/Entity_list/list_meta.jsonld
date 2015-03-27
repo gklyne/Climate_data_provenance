@@ -1,7 +1,7 @@
 {
   "rdfs:label": "List entities",
   "rdfs:comment": "List of defined PROV Entities",
-  "annal:id": "Entity_list",
+  "annal:default_view": "Entity_view",
   "annal:default_type": "Entity",
   "annal:record_type": "prov:Entity",
   "annal:type_id": "_list",
@@ -18,7 +18,7 @@
     }
   ],
   "annal:url": "/annalist/c/Climate_data_provenance/d/_list/Entity_list/",
-  "annal:default_view": "entity_view",
+  "annal:id": "Entity_list",
   "@id": "./",
   "@type": [
     "annal:List"

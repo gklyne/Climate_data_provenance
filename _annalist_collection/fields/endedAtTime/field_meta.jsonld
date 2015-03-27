@@ -1,5 +1,5 @@
 {
-  "rdfs:label": "Started at",
+  "rdfs:label": "Ended at",
   "rdfs:comment": "Date and time at which the current activity was ended, expressed as YYYY-MM-DD[THH:MM:SS]",
   "annal:group_ref": "",
   "annal:type_id": "_field",

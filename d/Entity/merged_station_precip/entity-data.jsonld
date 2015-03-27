@@ -3,6 +3,11 @@
   "rdfs:comment": "Merged precipitation data from all field stations",
   "prov:wasAttributedTo": "cru_uea",
   "annal:type_id": "Entity",
+  "prov:wasGeneratedBy_r": [
+    {
+      "prov:wasGeneratedBy": "station_precip_merging"
+    }
+  ],
   "prov:wasGeneratedBy": "station_precip_merging",
   "prov:wasDerivedFrom_r": [
     {

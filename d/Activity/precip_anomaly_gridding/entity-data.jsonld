@@ -1,0 +1,22 @@
+{
+  "rdfs:label": "Apply gridding process to precipitation anomaly data",
+  "rdfs:comment": "Apply gridding process to precipitation anomaly data\r\n\r\n",
+  "prov:used": "merged_station_precip_anomalies",
+  "prov:wasAssociatedWith": "cru_uea",
+  "annal:type_id": "Activity",
+  "prov:endedAtTime": "",
+  "@type": [
+    "prov:Activity",
+    "annal:EntityData"
+  ],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Activity/precip_anomaly_gridding/",
+  "prov:startedAtTime": "",
+  "annal:id": "precip_anomaly_gridding",
+  "@id": "./",
+  "prov:used_r": [
+    {
+      "prov:used": "merged_station_precip_anomalies"
+    }
+  ],
+  "annal:type": "annal:EntityData"
+}

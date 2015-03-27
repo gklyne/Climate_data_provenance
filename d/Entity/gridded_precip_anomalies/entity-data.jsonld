@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Gridded precipitation anomaly data",
+  "rdfs:comment": "Precipitation anomaly from climatic normal mapped to a lat-long grid",
+  "prov:wasAttributedTo": "cru_uea",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy_r": [
+    {
+      "prov:wasGeneratedBy": "precip_anomaly_gridding"
+    }
+  ],
+  "prov:wasGeneratedBy": "precip_anomaly_gridding",
+  "prov:wasDerivedFrom_r": [
+    {
+      "prov:wasDerivedFrom": "merged_station_precip_anomalies"
+    }
+  ],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/gridded_precip_anomalies/",
+  "annal:id": "gridded_precip_anomalies",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

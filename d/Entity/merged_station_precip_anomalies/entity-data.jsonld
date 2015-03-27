@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Merged station precipitation anomaly data ",
+  "rdfs:comment": "Merged station precipitation data as percentage anomalies from climatic normal.",
+  "prov:wasAttributedTo": "cru_uea",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy_r": [
+    {
+      "prov:wasGeneratedBy": "convert_to_anomalies"
+    }
+  ],
+  "prov:wasGeneratedBy": "convert_to_anomalies",
+  "prov:wasDerivedFrom_r": [
+    {
+      "prov:wasDerivedFrom": "merged_station_precip"
+    }
+  ],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/merged_station_precip_anomalies/",
+  "annal:id": "merged_station_precip_anomalies",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

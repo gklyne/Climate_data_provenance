@@ -1,7 +1,7 @@
 {
   "rdfs:label": "List activities",
   "rdfs:comment": "List of defined PROV Activities",
-  "annal:default_view": "Default_view",
+  "annal:id": "Activity_list",
   "annal:default_type": "Activity",
   "annal:record_type": "prov:Activity",
   "annal:type_id": "_list",
@@ -18,7 +18,7 @@
     }
   ],
   "annal:url": "/annalist/c/Climate_data_provenance/d/_list/Activity_list/",
-  "annal:id": "Activity_list",
+  "annal:default_view": "Activity_view",
   "@id": "./",
   "@type": [
     "annal:List"
