@@ -1,7 +1,7 @@
 {
   "annal:type_id": "_entitytypedata",
-  "annal:url": "/annalist/c/Climate_data_provenance/d/entity/",
-  "annal:id": "entity",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/",
+  "annal:id": "Entity",
   "@id": "./",
   "@type": [
     "annal:Type_Data"
