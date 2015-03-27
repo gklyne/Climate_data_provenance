@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "entity",
+  "rdfs:comment": "",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "prov:Entity",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_type/entity/",
+  "annal:type_list": "Default_list",
+  "annal:id": "entity",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "entity_view"
+}

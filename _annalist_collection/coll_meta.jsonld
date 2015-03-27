@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Example provenance data for climate data sets",
+  "rdfs:comment": "",
+  "annal:type_id": "_collection",
+  "annal:url": "/annalist/c/Climate_data_provenance/",
+  "annal:default_list": "Entity_list",
+  "annal:id": "Climate_data_provenance",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

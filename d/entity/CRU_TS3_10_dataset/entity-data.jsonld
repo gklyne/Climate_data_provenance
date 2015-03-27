@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "CRU TS3.10 Dataset",
+  "rdfs:comment": "High resolution gridded global land climate dataset (CRU TS3.10 Dataset)",
+  "prov:wasGeneratedBy": "(TBD)",
+  "annal:type_id": "entity",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/entity/CRU_TS3_10_dataset/",
+  "annal:id": "CRU_TS3_10_dataset",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}
