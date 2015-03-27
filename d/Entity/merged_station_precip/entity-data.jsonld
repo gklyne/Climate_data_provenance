@@ -4,6 +4,20 @@
   "prov:wasAttributedTo": "cru_uea",
   "annal:type_id": "Entity",
   "prov:wasGeneratedBy": "station_precip_merging",
+  "prov:wasDerivedFrom_r": [
+    {
+      "prov:wasDerivedFrom": "MCDW"
+    },
+    {
+      "prov:wasDerivedFrom": "CLIMAT"
+    },
+    {
+      "prov:wasDerivedFrom": "WWR"
+    },
+    {
+      "prov:wasDerivedFrom": "monthly_climatic_data"
+    }
+  ],
   "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/merged_station_precip/",
   "annal:id": "merged_station_precip",
   "@id": "./",

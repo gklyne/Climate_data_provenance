@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "World Weather Records",
+  "rdfs:comment": "World Weather Records exchanged between National Meteorological Services (NMSs) and NOAA's National Climatic Data Center (NCDC)\r\n",
+  "prov:wasGeneratedBy": "",
+  "annal:type_id": "Entity",
+  "prov:wasAttributedTo": "NOAA_NCDC",
+  "prov:wasDerivedFrom_r": [],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/WWR/",
+  "annal:id": "WWR",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Monthly Climatic Data",
+  "rdfs:comment": "Additional  monthly climatic data at a national level.",
+  "prov:wasGeneratedBy": "",
+  "annal:type_id": "Entity",
+  "prov:wasAttributedTo": "",
+  "prov:wasDerivedFrom_r": [],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/monthly_climatic_data/",
+  "annal:id": "monthly_climatic_data",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

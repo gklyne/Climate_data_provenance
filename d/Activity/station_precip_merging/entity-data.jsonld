@@ -5,6 +5,20 @@
   "prov:wasAssociatedWith": "cru_uea",
   "annal:type_id": "Activity",
   "prov:endedAtTime": "",
+  "prov:used_r": [
+    {
+      "prov:used": "MCDW"
+    },
+    {
+      "prov:used": "CLIMAT"
+    },
+    {
+      "prov:used": "WWR"
+    },
+    {
+      "prov:used": "monthly_climatic_data"
+    }
+  ],
   "annal:url": "/annalist/c/Climate_data_provenance/d/Activity/station_precip_merging/",
   "prov:startedAtTime": "",
   "annal:id": "station_precip_merging",

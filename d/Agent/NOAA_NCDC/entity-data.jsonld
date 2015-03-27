@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "NOAA's NCDC",
+  "rdfs:comment": "National Oceanic and Atmospheric Administration's National Climatic Data Center\r\n\r\nhttp://www.noaa.gov\r\nhttp://www.ncdc.noaa.gov\r\n",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Agent/NOAA_NCDC/",
+  "annal:type_id": "Agent",
+  "annal:id": "NOAA_NCDC",
+  "@id": "./",
+  "@type": [
+    "prov:Agent",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

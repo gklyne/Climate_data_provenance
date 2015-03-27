@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "MCDW",
+  "rdfs:comment": "Monthly Climatic Data for the World produced by NOAA's NCDC for WMO",
+  "prov:wasAttributedTo": "NOAA_NCDC",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy": "",
+  "prov:wasDerivedFrom_r": [],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/MCDW/",
+  "annal:id": "MCDW",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

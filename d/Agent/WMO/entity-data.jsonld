@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "World Meteorological Organization",
+  "rdfs:comment": "WMO: World Meteorological Organization\r\n\r\nhttps://www.wmo.int\r\n",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Agent/WMO/",
+  "annal:type_id": "Agent",
+  "annal:id": "WMO",
+  "@id": "./",
+  "@type": [
+    "prov:Agent",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "CLIMAT monthly data",
+  "rdfs:comment": "Monthly data exchanged between countries within WMO\r\n\r\nWMO: World Meteorological Organization\r\n\r\nhttps://www.wmo.int\r\n",
+  "prov:wasAttributedTo": "WMO",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy": "",
+  "prov:wasDerivedFrom_r": [],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/CLIMAT/",
+  "annal:id": "CLIMAT",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

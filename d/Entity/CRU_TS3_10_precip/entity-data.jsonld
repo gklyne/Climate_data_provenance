@@ -1,9 +1,14 @@
 {
   "rdfs:label": "CRU TS3.10 Dataset - preciptation",
-  "rdfs:comment": "High resolution gridded global land precipitation dataset (CRU TS3.10 Dataset).\r\n\r\nGridded precipitation data on a regular high-resolution lattitude-longitude grid for global land (excluding Antarctica).\r\n\r\nCovers period from 1961-1990.",
+  "rdfs:comment": "High resolution gridded global land precipitation dataset (CRU TS3.10 Dataset).\r\n\r\nGridded precipitation data on a regular high-resolution lattitude-longitude grid for global land (excluding Antarctica).\r\n\r\nCovers period from 1961-1990.\r\n\r\nDetails gleaned from \"Updated high-resolution grids of monthly climatic observations \u2013 the CRU TS3.10 Dataset\", I. Harris, P.D. Jones, T.J. Osborn1 and D.H. Lister1.   DOI: 10.1002/joc.3711\r\n",
   "prov:wasAttributedTo": "cru_uea",
   "annal:type_id": "Entity",
   "prov:wasGeneratedBy": "precip_gridding",
+  "prov:wasDerivedFrom_r": [
+    {
+      "prov:wasDerivedFrom": "merged_station_precip"
+    }
+  ],
   "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/CRU_TS3_10_precip/",
   "annal:id": "CRU_TS3_10_precip",
   "@id": "./",
