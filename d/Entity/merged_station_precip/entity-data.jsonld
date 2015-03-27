@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Merged station precipitation data",
+  "rdfs:comment": "Merged precipitation data from all field stations",
+  "prov:wasAttributedTo": "cru_uea",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy": "station_precip_merging",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/merged_station_precip/",
+  "annal:id": "merged_station_precip",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

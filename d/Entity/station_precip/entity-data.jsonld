@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Station precipitation data",
+  "rdfs:comment": "Precipitation data from individual field stations, presented as multiple datasets.\r\n\r\nSources include:\r\n1. MCDW - Monthly Climatic Data for the World, produced by NOAA's National Climatic Data Centre (NCDC) for the World Meteorological Organization (WMO).\r\n2. CLIMAT monthly data exchanged between countries within WMO\r\n3. WWR - World Weather Records echanged between National Meteorological Services (NMSs) and NCDC\r\n4. Additional monthly climate data at a national scale\r\n",
+  "prov:wasGeneratedBy": "",
+  "annal:type_id": "Entity",
+  "prov:wasAttributedTo": "",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Entity/station_precip/",
+  "annal:id": "station_precip",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

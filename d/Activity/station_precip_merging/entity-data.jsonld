@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Merge station precipitation data",
+  "rdfs:comment": "Merge precipitation data from all field sations.",
+  "prov:used": "station_precip",
+  "prov:wasAssociatedWith": "cru_uea",
+  "annal:type_id": "Activity",
+  "prov:endedAtTime": "",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Activity/station_precip_merging/",
+  "prov:startedAtTime": "",
+  "annal:id": "station_precip_merging",
+  "@id": "./",
+  "@type": [
+    "prov:Activity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

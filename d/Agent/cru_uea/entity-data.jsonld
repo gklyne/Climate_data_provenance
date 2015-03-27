@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "CRU at UEA",
+  "rdfs:comment": "Climatic Research Unit at University of East Anglia",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/Agent/cru_uea/",
+  "annal:type_id": "Agent",
+  "annal:id": "cru_uea",
+  "@id": "./",
+  "@type": [
+    "prov:Agent",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -17,8 +17,13 @@
     },
     {
       "annal:property_uri": "",
-      "annal:field_placement": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
       "annal:field_id": "wasGeneratedBy"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "",
+      "annal:field_id": "wasAttributedTo"
     }
   ],
   "rdfs:label": "Entity view",
