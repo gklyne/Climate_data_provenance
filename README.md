@@ -1,1 +1,2 @@
-# Climate_data_provenance
+# Artivity example data for RDS-CREAM
+# artivity_example
